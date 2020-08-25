@@ -3,10 +3,31 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
-body {
+/*body {
   background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}*/
+body {
+  background: url('../images/2.jpg') no-repeat 60% 90% fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+
 }
+
+/*body {
+	background: url("../images/2.jpg") no-repeat 60% 90% fixed;
+  width:1000px;
+  height:700px;
+  max-width: auto;
+  height: 80%;
+
+}*/
+
+
+
+/*background-image: url("../images/1.png");*/
